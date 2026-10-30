@@ -1,5 +1,16 @@
 # Reconhecimento de atividades humanas com TinyML
 
+## Portfólio de IA
+
+Trabalho acadêmico da pós-graduação, preservado no portfólio de [Rodrigo Teles Dondé](https://github.com/RodrigoTDonde).
+
+Projeto em grupo de Gabriel Monteiro de Souza, Renan Cardoso dos Santos e Rodrigo Teles Dondé. Os créditos e o histórico dos participantes foram mantidos.
+
+**Competências:** Pipeline de machine learning, features inerciais, quantização INT8, TensorFlow Lite Micro e validação de firmware.
+
+**Origem acadêmica:** [rodrigodondesenai/projeto-final-tinyml-har](https://github.com/rodrigodondesenai/projeto-final-tinyml-har). [Registro da migração e créditos](PORTFOLIO.md).
+
+
 > **Projeto final — Unidade Curricular: IA Embarcada e Modelos Compactos**
 
 ## Integrantes do grupo
@@ -143,7 +154,7 @@ evidencias/            registros de execução e roteiro de evidências
 scripts/               download, pipeline e build
 ```
 
-Repositório público: [rodrigodondesenai/projeto-final-tinyml-har](https://github.com/rodrigodondesenai/projeto-final-tinyml-har).
+Repositório público: [rodrigodondesenai/projeto-final-tinyml-har](https://github.com/RodrigoTDonde/projeto-final-tinyml-har).
 
 Leia [arquitetura](docs/arquitetura.md), [metodologia](docs/metodologia.md), [apresentação de 10 minutos](docs/guia_apresentacao.md) e [Git Flow](docs/git_flow.md).
 
